@@ -9,7 +9,8 @@ body {
 	margin-right: auto;
 }
 
-.prayer {
+.prayer,
+.fallen {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
@@ -21,3 +22,11 @@ body {
 .prayer-text {
 	font-size: 20px;
 }
+
+.fallen-list {
+	font-size: 20px;
+	list-style-type: "† ";
+	text-align: left;
+	margin-left: 50px;
+} 
+
