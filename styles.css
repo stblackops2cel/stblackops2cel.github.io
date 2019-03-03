@@ -14,7 +14,7 @@ body {
 	text-align: center;
 	margin: 0 auto 100px;
 	color: #fbfbfb;
-	font-family: "Times New Roman", Times, serif;
+	font-family: Times, serif;
 	width: 400px;
 }
 
@@ -24,7 +24,7 @@ body {
 
 .fallen-list {
 	font-size: 20px;
-	list-style-type: "† ";
+	list-style-type: "✝ ";
 	text-align: left;
 	margin-left: 50px;
 } 
