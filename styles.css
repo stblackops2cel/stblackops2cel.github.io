@@ -24,7 +24,7 @@ body {
 
 .fallen-list {
 	font-size: 20px;
-	list-style-type: "✝ ";
+	list-style-type: none;
 	text-align: left;
 	margin-left: 50px;
 } 
