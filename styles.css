@@ -29,3 +29,15 @@ body {
 	margin-left: 50px;
 } 
 
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: #779ecb;
+}
+
+a:visited {
+	color: #966fd6;
+}
+
